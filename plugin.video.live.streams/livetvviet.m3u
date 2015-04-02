@@ -33,13 +33,13 @@ http://125.212.200.2:1935/liveidc/smil:cartoon.smil/playlist.m3u8
 
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH VTVPLAY[/COLOR]  
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
-#EXTINF:0, --VTV1 HD 
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1hd_hls.smil/playlist.m3u8
-#EXTINF:0, --VTV3 HD 
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3hd_hls.smil/playlist.m3u8
-#EXTINF:0, --VTV6 HD 
-http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6hd_hls.smil/playlist.m3u8
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV1 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv1sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV3 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv3sd_hls.smil/playlist.m3u8
+#EXTINF:0, --VTV6 SD 
+http://vtv.live.cdn.fptplay.net/vtvlive/smil:vtv6sd_hls.smil/playlist.m3u8
 #EXTINF:0, --BIBI TV
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
 #EXTINF:0, --KÊNH17
@@ -70,7 +70,6 @@ http://vtv.live.cdn.fptplay.net/vtvlive/smil:thethaotvsd_hls.smil/playlist.m3u8
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:hanoi1_hls.smil/playlist.m3u8
 #EXTINF:0, --HTVC PHỤ NỮ
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:htvcphunu_hls.smil/playlist.m3u8
-
 #EXTINF:0, --VTVCAB7 DDRAMAS
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:ddramas_hls.smil/playlist.m3u8
 #EXTINF:0, --VTVCAB12 STYLETV
@@ -109,19 +108,21 @@ http://117.103.206.26:1935/live/_definst_/VTC3/smil:VTC3_live.smil/playlist.m3u8
 
 #EXTINF:0, [COLOR yellow]NHÓM KÊNH HDTV-ZEE[/COLOR]  
 http://tv.vnzee.com/live/vtv1hd~ztv_CND_partner.m3u8
+#EXTINF:0, --VTV1 [COLOR cyan]SD[/COLOR]  
+http://tv.vnzee.com/live/vtv1~ztv_CND_partner.m3u8
 #EXTINF:0, --VTV1 [COLOR yellow]HD[/COLOR]  
 http://tv.vnzee.com/live/vtv1hd~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV2 [COLOR yellow]SD[/COLOR]  
+#EXTINF:0, --VTV2 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv2~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV3
+#EXTINF:0, --VTV3 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv3~ztv_CND_partner.m3u8
 #EXTINF:0, --VTV3 [COLOR yellow]HD[/COLOR]  
 http://tv.vnzee.com/live/vtv3hd~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV4
+#EXTINF:0, --VTV4 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv4~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV5
+#EXTINF:0, --VTV5 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv5~ztv_CND_partner.m3u8
-#EXTINF:0, --VTV6
+#EXTINF:0, --VTV6 [COLOR cyan]SD[/COLOR]  
 http://tv.vnzee.com/live/vtv6~ztv_CND_partner.m3u8
 #EXTINF:0, --VTV6 [COLOR yellow]HD[/COLOR] 
 http://tv.vnzee.com/live/vtv6hd~ztv_CND_partner.m3u8
