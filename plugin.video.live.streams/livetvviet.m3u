@@ -816,7 +816,7 @@ http://live.kenhitv.vn:1935/liveweb/itv_web_500k.stream/playlist.m3u8
 #EXTINF:0, --Bibi
 http://vtv.live.cdn.fptplay.net/vtvlive/smil:bibi_hls.smil/playlist.m3u8
 #EXTINF:0, --TOM&JERRY 
-rtmp://66.90.111.66/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
+rtmp://208.53.180.218/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
 #EXTINF:0, --CN
 http://113.160.49.34/lives/origin03/carsd.isml/carsd-1096k.m3u8
 
