@@ -196,11 +196,11 @@ http://01w1.vp9.tv/chn/vtv1/v.m3u8
 #EXTINF:0, --VTV2
 http://02w1.vp9.tv/chn/vtv2/v.m3u8
 #EXTINF:0, --VTV3
-http://03w1.vp9.tv/chn/vtv3/v.m3u8
+http://01w2.vp9.tv/chn/vtv3/v.m3u8
 #EXTINF:0, --VTV4
 http://01w1.vp9.tv/chn/vtv4/v.m3u8
 #EXTINF:0, --VTV6
-http://01w1.vp9.tv/chn/vtv6/v.m3u8
+http://03w1.vp9.tv/chn/vtv6/v.m3u8
 #EXTINF:0, --VTC1
 http://01w1.vp9.tv/chn/vtc1/v.m3u8
 #EXTINF:0, --VTC2
@@ -208,13 +208,13 @@ http://02w1.vp9.tv/chn/vtc2/v.m3u8
 #EXTINF:0, --VTC3
 http://03w1.vp9.tv/chn/vtc3/v.m3u8
 #EXTINF:0, --Phim Viet
-http://01w1.vp9.tv/chn/phimv/v.m3u8
+http://01w2.vp9.tv/chn/phimv/v.m3u8
 #EXTINF:0, --TTXVN
-http://65e2.vp9.tv/chn/ttxvn/v.m3u8
+http://02e5.vp9.tv/chn/ttxvn/v.m3u8
 #EXTINF:0, --Saigon Channel
 http://03w1.vp9.tv/chn/sgc6/v.m3u8
 #EXTINF:0, --Today TV
-http://67e2.vp9.tv/chn/tdayt/v.m3u8
+http://02e5.vp9.tv/chn/tdayt/v.m3u8
 #EXTINF:0, --Let's Viet
 http://01w1.vp9.tv/chn/letsv/v.m3u8
 #EXTINF:0, --Kids TV
@@ -256,19 +256,19 @@ http://70e2.vp9.tv/chn/fox2/v.m3u8
 #EXTINF:0, --HANOI 1
 http://01w1.vp9.tv/chn/hn1/v.m3u8
 #EXTINF:0, --HANOI 2
-http://62e2.vp9.tv/chn/hn2/v.m3u8
+http://02w1.vp9.tv/chn/hn2/v.m3u8
 #EXTINF:0, --iTV
 http://03w1.vp9.tv/chn/itvvn/v.m3u8
 #EXTINF:0, --THVL 1
 http://01w1.vp9.tv/chn/vl1/v.m3u8
 #EXTINF:0, --THVL 2
-http://65e2.vp9.tv/chn/vl2/v.m3u8
+http://02w1.vp9.tv/chn/vl2/v.m3u8
 #EXTINF:0, --BTV1
 http://03w1.vp9.tv/chn/btv1/v.m3u8
 #EXTINF:0, --VTV Danang
 http://01w1.vp9.tv/chn/dvtv/v.m3u8
 #EXTINF:0, --DRT 1
-http://68e2.vp9.tv/chn/drt1/v.m3u8
+http://02w1.vp9.tv/chn/drt1/v.m3u8
 #EXTINF:0, --DRT 2
 http://03w1.vp9.tv/chn/drt2/v.m3u8
 
